@@ -1,0 +1,12 @@
+{
+  "name": "sellBuddy",
+  "displayName": "sellBuddy",
+  "expo": {
+    "name": "sellBuddy",
+    "slug": "sellBuddy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
